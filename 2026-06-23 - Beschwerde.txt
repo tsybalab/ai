@@ -1,0 +1,734 @@
+# Text extract companion for: 2026-06-23 - Beschwerde.pdf
+# Path: 2026-06-23 - Beschwerde.pdf
+# Pages: 18
+
+--- Seite 1 (ocr) ---
+Oleksandr Tsyba|
+Amtsgericht Lichtenberg
+Roedeliusplatz 1
+10365 Berlin
+Berlin, den 23. Juni 2026
+Ergänzende Begründung zur bereits am 22.06.2026 eingelegten sofortigen Beschwerde
+Antrag
+
+Der Beschwerdeführer beantragt,
+
+1. den Beschluss des Amtsgerichts Lichtenberg vom 04.06.2026 aufzuheben;
+
+2. dem Beschwerdeführer Prozesskostenhilfe für das Verfahren zu
+bewilligen;
+
+3. die Sache zur erneuten Entscheidung über den PKH-Antrag an das Amtsgericht
+Lichtenberg zurückzuverweisen.
+
+Hilfsweise, soweit das Beschwerdegericht den Antrag nicht unmittelbar bewilligt:
+
+4. das Amtsgericht Lichtenberg zu verpflichten, den PKH-Antrag unter gebührender
+Berücksichtigung des nachfolgenden Vortrags erneut zu bescheiden und dabei
+insbesondere zu den streitigen Beträgen von 56,45 EUR und 318,08 EUR, zu den
+Beweisanträgen vom 03.05.2026 sowie zu den datenschutzrechtlichen Feststellungs-
+und Berichtigungsanträgen Stellung zu nehmen.
+
+Einleitung
+
+Mit Schriftsatz vom 22.06.2026 hat der Beschwerdeführer bereits sofortige Beschwerde eingelegt.
+Mit dem vorliegenden Schriftsatz wird der Beschwerdevortrag ergänzt, präzisiert und vertieft. Ziel ist
+nicht die Wiederholung des Hauptsachestreits, sondern die Aufzeigung revisionsfähiger Rechtsfehler des
+PKH-Beschlusses vom 04.06.2026. Der angefochtene Beschluss lehnt Prozesskostenhilfe ab, weil die
+beabsichtigte Klage angeblich keine hinreichende Aussicht auf Erfolg biete, ein Rechtsschutzbedürfnis für
+Feststellungsanträge fehle, § 826 BGB und DSGVO nicht hinreichend dargelegt seien, die streitigen
+Beträge von 56,45 EUR und 318,08 EUR nicht erläutert seien, der Vollstreckungsbescheid rechtskräftig sei
+und der Schadensersatz pauschal unbeziffert sei.
+
+Diese Würdigung verletzt den zutreffenden Prüfungsmaßstab des $ 114 ZPO, verkennt den
+Streitgegenstand, übersieht substantiierten Vortrag und Beweisanträge und nimmt die Hauptsache in
+unzulässiger Weise vorweg.
+
+
+--- Seite 2 (ocr) ---
+I. Zulässigkeit der Beschwerde
+1. Statthaftigkeit
+
+Die Beschwerde ist statthaft gemäß §§ 127 Abs. 2, 567 ff. ZPO.
+2. Streitwert
+
+Die Beschwerde ist zulässig, weil der Streitwert der Hauptsache den Betrag von 1.000
+EUR übersteigt (vgl. Rechtsbehelfsbelehrung im Beschluss vom 04.06.2026).
+
+Der Beschwerdeführer begehrt:
+
+Anspruchsgegenstand Mindestwert
+
+Feststellung vorsätzlich sittenwidrigen eigenständiges Feststellungsinteresse
+Verhaltens (§ 826 BGB)
+
+Feststellung datenschutzrechtlicher eigenständiges Feststellungsinteresse
+Verstöße (Art. 5 Abs. 1lit. d, Art. 16
+
+DSGVO)
+
+Berichtigung und Unterlassung mindestens 374,53 EUR
+Schadensersatz (immateriell) 1.000,00 EUR
+
+Klärung der Gesamtforderung laut 957,92 EUR
+
+Schreiben vom 18.08.2025
+
+Allein die streitigen Kernpositionen 56,45 EUR (nicht verrechnete Zahlungen) und 318,08
+EUR (in VB und ohne vertragliche Grundlage und ohne Herleitung
+ausgewiesene Position) belaufen sich auf 374,53 EUR. Hinzu tritt das Interesse an der
+Berichtigung und Unterlassung der weiteren Verwendung unrichtiger Forderungsdaten sowie
+ein bezifferter immaterieller Schadensersatz in Höhe von 1.000 EUR.
+
+Nach § 3 ZPO sind die Werte mehrerer Anträge grundsätzlich zusammenzurechnen,
+sofern sich die Ansprüche nicht ausschließen. Zinsen und bloße Nebenforderungen bleiben nur
+insoweit außer Ansatz, als sie nicht selbständig streitgegenständlich sind ($ 4 Abs. 1ZPO).
+
+Das Landgericht Berlin II hat im Verfahren […] den Streitwert auf 598,17 EUR oder
+520,69 EUR beziffert. Diese Berechnung betraf jedoch die frühere Klagekonzeption in […] und ließ die nunmehr gesondert geltend gemachten Feststellungs-, Unterlassungs-,
+Berichtigungs- und Schadensersatzansprüche außer Ansatz. Für das Verfahren ist
+daher ein eigenständiger, höherer Streitwert anzusetzen.
+
+
+--- Seite 3 (ocr) ---
+Il. Verkennung des Streitgegenstandes
+1. Kein Angriff auf den Vollstreckungstitel
+
+Das Amtsgericht begründet die Ablehnung der Prozesskostenhilfe im Wesentlichen damit,
+der Beschwerdeführer hätte im Mahnverfahren vorgehen müssen, und stellt auf die
+Rechtskraft des Vollstreckungsbescheids ab.
+
+Damit verkennt es den Streitgegenstand der Klage vom 29.03.2026 und die
+nachfolgenden Schriftsätze vom 20.04.2026, 03.05.2026, 19.05.2026 und 20.05.2026.
+
+Die Klage richtet sich ausdrücklich nicht gegen:
+
+* die formelle Wirksamkeit,
+* die Vollstreckbarkeit oder
+* die Bestandskraft
+
+des Vollstreckungsbescheids des Amtsgerichts vom 01.07.2024
+
+Gegenstand ist ausschlieBlich das nachtragliche Verhalten der Beklagten nach
+Titulierung, insbesondere:
+
+1. die fortgesetzte Verarbeitung personenbezogener Forderungs- und
+Zahlungsdaten;
+
+2. die Aufrechterhaltung und Durchsetzung der Forderungsaufstellung der
+Kanzlei vom 18.08.2025;
+
+3. die Nichtberücksichtigung nachweislich geleisteter Zahlungen in Höhe von 56,45
+EUR;
+
+4. die Aufrechterhaltung der von der Beklagten berechneten Position von 318,08
+EUR, die weder in der vertraglichen Auftragsbestätigung vom 14.03.2023 vereinbart
+ist noch im Vollstreckungsbescheid (13.08.2024) oder in der
+Forderungsaufstellung (18.08.2025) sachlich benannt, berechnet oder vertraglich
+begründet wird;
+
+5. die fehlende sachliche Aufklärung trotz wiederholter Beanstandung.
+
+
+2. Keine erneute Einspruchsklage, keine bloße Vollstreckungsabwehr
+
+Die beabsichtigte Klage ist weder ein erneuter Einspruch noch eine bloße
+Vollstreckungsabwehrklage nach § 767 ZPO gegen den Titel als solchen.
+
+Sie betrifft vielmehr die gerichtliche Klärung eines nach Zustellung des
+Vollstreckungsbescheids fortbestehenden und fortentwickelten Sachverhalts.
+
+Nach § 796 Abs. 2 ZPO sind Einwendungen gegen den Anspruch selbst nur insoweit
+ausgeschlossen, als die Gründe nach Zustellung des Vollstreckungsbescheids nicht
+entstanden sind. Gerade die Forderungsaufstellung vom 18.08.2025, die fortgesetzte
+Kommunikation der und die weitere Verwendung streitiger Daten liegen zeitlich
+nach der Titulierung und begründen einen eigenständigen Lebenssachverhalt.
+
+
+--- Seite 4 (ocr) ---
+3. Entgegenstellung der Gegenseite
+
+Die Beklagte stellt in ihrer Stellungnahme vom 30.04.2026 den Vortrag des Klägers zwar
+zutreffend zusammen, leitet daraus aber unzulässig die Schlussfolgerung ab, es handele sich
+materiell um einen bereits abgeschlossenen Streit. Die wiederholt in ihrer
+Stellungnahme vom 20.05.2026 pauschal, die Klage sei unzulässig, weil ein
+Feststellungsinteresse fehle.
+
+Diese Argumentation vermischt den Bestand des Titels mit der fortgesetzten
+Datenverarbeitung und Forderungsfortführung und darf im PKH-Verfahren nicht zur
+Vorwegnahme der Hauptsache führen (BVerfGE 81, 347, 357).
+
+
+--- Seite 5 (ocr) ---
+Ill. Begründungsmangel des Beschlusses vom 04.06.2026
+1. Pauschale Zurückweisung trotz konkreten Vortrags
+
+Das Amtsgericht führt aus, es sei
+
+„Nicht ersichtlich, welche Daten unrichtig sein sollen“,
+
+und die Relevanz der Zahlung von 56,45 EUR sowie der Position von 318,08 EUR sei nicht
+dargetan.
+
+Dies trifft auf den Akteninhalt nicht zu.
+
+Der Beschwerdeführer hat konkret vorgetragen und teilweise belegt:
+
+a) Nicht verrechnete Zahlungen: 56,45 EUR
+
+Datum Betrag Nachweis
+
+03.11.2023 46,45 EUR Revolut-
+Uberweisungsbestatigung
+
+01.12.2023 1,00 EUR Revolut-
+Uberweisungsbestatigung
+
+13.12.2023 9,00 EUR Revolut-
+Überweisungsbestätigung
+
+Summe 56,45 EUR
+
+Diese Zahlungen sind in der Forderungsaufstellung der vom 18.08.2025
+nicht verrechnet worden, obwohl es sich um Zahlungseingänge handelt, die der Beklagten aus
+ihrem eigenen Abrechnungssystem bekannt sein müssen.
+
+b) Die von der Beklagten berechnete Position von 318,08 EUR
+
+Die Position von 318,08 EUR ist weder in der vertraglichen Auftragsbestätigung vom
+14.03.2023 (Anlage) noch in den vorliegenden Vollstreckungs- und Inkassounterlagen als
+vereinbarte Forderung ausgewiesen oder nachvollziehbar hergeleitet.
+
+Zur Klarstellung der Titel: Vorliegend sind zwei Vollstreckungsbescheide des
+Amtsgerichts zu unterscheiden. Die Position von 318,08 EUR erscheint im titulierten
+VB vom 13.08.2024 Hauptforderung 598,17 EUR), nicht im älteren VB
+vom 01.07.2024 Hauptforderung 520,69 EUR als pauschaler
+Einzelposten ohne Positionsaufschlüsselung).
+
+In der Auftragsbestätigung vom 14.03.2023 (MagentaMobil M) sind lediglich vereinbart:
+
+* ein monatlicher Grundpreis von 49,95 EUR,
+* eine Vertragslaufzeit von 24 Monaten,
+* ein Bereitstellungspreis von 39,95 EUR.
+
+Eine Kündigungsstrafe, Vertragsstrafe oder sonstige Einmalposition in Höhe von 318,08
+EUR ist dort nicht vereinbart.
+
+In dem Vollstreckungsbescheid vom 13.08.2024 Anlage) und in
+der Forderungsaufstellung der vom 18.08.2025 erscheint der Betrag von 318,08
+EUR demgegenüber ohne sachliche Bezeichnung, ohne Berechnungsformel und ohne
+
+
+--- Seite 6 (ocr) ---
+Verweis auf eine konkrete vertragliche Bestimmung — lediglich als nackter Geldbetrag zu
+Rechnung 33447384000441 vom 06.03.2024.
+
+Bemerkenswert ist, dass selbst im Vollstreckungsbescheid — also in dem die
+Zwangsvollstreckung begründenden Titel — diese Position nicht benannt wird. Aus dem Titel
+selbst ist nicht erkennbar, ob es sich um Grundpreis, Entgelt, Strafe, Restlaufzeit, Sperrkosten
+oder eine sonstige Forderung handeln soll. Andere Posten der Hauptforderung verweisen
+wenigstens auf konkrete Rechnungsnummern und Rechnungsdaten; die Position von 318,08
+EUR bleibt dagegen inhaltlich unbezeichnet.
+
+Vor diesem Hintergrund handelt es sich um eine nicht vertraglich gedeckte
+Forderungsposition, die im Vollstreckungs- und Inkassotitel ohne sachliche Bezeichnung und
+ohne nachprüfbare Herleitung ausgewiesen ist und von der Beklagten ohne nachvollziehbare
+vertragliche oder rechnerische Begründung fortgeführt wird.
+
+Die Beklagte hat bislang weder eine konkrete vertragliche Grundlage aus dem
+Individualvertrag, noch eine nachvollziehbare Herleitung aus konkreten AGB-Bestimmungen
+mit nachprüfbarer Kalkulation vorgelegt.
+
+Das Amtsgericht hat diese streitige Position weder inhaltlich geprüft noch als irrelevant
+erklärt, sondern lediglich pauschal behauptet, ihre Relevanz sei nicht erläutert. Zumindest ist
+streitig, ob eine derartige Pauschale in einem Verbrauchervertrag überhaupt wirksam vereinbart
+sein kann (§ 307 BGB, § 309 Nr. 5 BGB).
+
+c) Fortgesetzte Geltendmachung nach Titulierung
+
+Die Beklagte bzw. ihre Prozessbevollmächtigten haben die streitigen Daten in der
+Forderungsaufstellung vom 18.08.2025 erneut verwendet und die Forderung weiterhin auf
+957,92 EUR beziffert.
+
+Ein Gericht, das diesen Vortrag mit der pauschalen Formel „nicht ersichtlich” zurückweist,
+hat seine Begründungspflicht verletzt.
+
+2. Widerspruch zur Gegenseite
+
+Bemerkenswert ist, dass die Beklagte in ihrer Stellungnahme vom 30.04.2026 die
+streitigen Positionen von 56,45 EUR und 318,08 EUR ausdrücklich wiederholt und zur Kenntnis
+nimmt, ohne eine nachvollziehbare Herleitung oder Verrechnung vorzulegen. Die
+bestreitet in ihrer Stellungnahme vom 20.05.2026 pauschal, es liege ein Abrechnungsfehler
+vor, ohne die internen Buchungs- und Verrechnungsdaten offenzulegen.
+
+Damit bestätigt die Gegenseite gerade die Informationsasymmetrie, auf der die
+sekundäre Darlegungslast der Beklagten beruht.
+
+
+--- Seite 7 (ocr) ---
+IV. Fehlerhafter Maßstab des $ 114 ZPO
+1. Das Amtsgericht hat den Maßstab der hinreichenden Erfolgsaussicht überspannt
+
+Nach § 114 Abs. 1 Satz 1 ZPO setzt die Bewilligung von Prozesskostenhilfe voraus, dass
+die beabsichtigte Rechtsverfolgung hinreichende Aussicht auf Erfolg bietet und nicht mutwillig
+erscheint. Dieser gesetzliche Wortlaut ist zu beachten.
+
+Gleichzeitig hat das Bundesverfassungsgericht klargestellt, dass die Erfolgsaussicht nicht
+überspannt geprüft werden darf und das PKH-Verfahren nicht an die Stelle des
+Hauptsacheverfahrens treten darf:
+
+„Die Prüfung der Erfolgsaussicht darf aber nicht dazu führen, daß die
+
+Rechtsverfolgung oder Rechtsverteidigung in das summarische Verfahren der
+Prozeßkostenhilfe vorverlagert wird und dieses an die Stelle des Hauptverfahrens
+tritt; denn das Prozeßkostenhilfeverfahren soll den verfassungsrechtlich geforderten
+Rechtsschutz nicht selbst bieten, sondern erst zugänglich machen.”
+
+— BVerfGE 81, 347, 357
+
+Das Amtsgericht hat den gesetzlichen Maßstab damit faktisch überspannt, indem es die
+Klage bereits im PKH-Verfahren als aussichtslos behandelt hat, obwohl zentrale Tatsachen-
+und Rechtsfragen offen und streitig sind.
+
+2. PKH darf nicht zur Vorwegnahme der Hauptsache führen
+Das Amtsgericht hat im PKH-Beschluss vom 04.06.2026 bereits entschieden:
+* dass die DSGVO-Anträge ohne Erfolgsaussicht seien;
+* dass § 826 BGB nicht hinreichend dargelegt sei;
+* dass die Beträge von 56,45 EUR und 318,08 EUR nicht relevant seien;
+* dass ein Rechtsschutzbedürfnis fehle, weil der Vollstreckungsbescheid
+rechtskräftig sei.
+
+Damit hat es Tatsachen- und Rechtsfragen der Hauptsache vorweggenommen, die erst
+dort hätten geprüft werden dürfen. Genau dies ist nach der Verfassungsgerichtsrechtlichen
+Rechtsprechung unzulässig (vgl. BVerfG, Beschluss v. 13.03.1990 - 2 BvR 94/88; BVerfGE 81,
+
+3. Offene Tatsachen- und Rechtsfragen dürfen im PKH-Verfahren nicht abschließend
+entschieden werden
+
+Schwierige, bislang ungeklärte Rechtsfragen dürfen im PKH-Verfahren nicht
+abschließend beantwortet werden, sondern müssen auch dem unbemittelten Rechtssuchenden
+zur Klärung in der Hauptsache zugeführt werden können:
+
+„Ist [die Rechtsfrage] dagegen nicht der Fall und steht eine höchstrichterliche
+
+Klärung noch aus, so ist es mit dem Gebot der Rechtsschutzgleichheit nicht zu
+vereinbaren, der unbemittelten Partei wegen fehlender Erfolgsaussicht ihres
+Begehrens Prozesskostenhilfe vorzuenthalten.”
+— BVerfGE 81, 347, 359; vgl. BVerfG, Beschluss v. 14.07.1993 - 1 BvR 1523/92, NJW
+
+
+--- Seite 8 (ocr) ---
+Vorliegend sind mindestens folgende Fragen offen und nicht leicht abschließend zu
+beantworten:
+
+1. Umfang datenschutzrechtlicher Berichtigungs- und Unterlassungsansprüche
+bei fortgesetzter Verarbeitung von Forderungsdaten nach Titulierung;
+
+2. Abgrenzung zwischen Titelbestand und fortgesetzter Datenverarbeitung;
+
+3. Reichweite der sekundären Darlegungslast bei internen Telekom-
+Buchungsdaten;
+
+4. Rechtmäßigkeit und vertragliche Grundlage der Position von 318,08 EUR;
+
+5. Voraussetzungen einer Anwendung des $ 826 BGB bei fortgesetzter Ausnutzung
+formeller Rechtspositionen trotz streitiger Abrechnungsdaten.
+
+Das Amtsgericht hat diese Fragen im PKH-Verfahren vorab zugunsten der Beklagten
+beantwortet. Das verletzt den zulässigen Prüfungsumfang des § 114 ZPO und Art. 3 Abs. 1GG
+i.V.m. Art. 19 Abs. 4 GG.
+
+3. Keine Mutwilligkeit (§ 114 Abs. 2 ZPO)
+
+Die Beklagte behauptet, die Klage sei mutwillig, weil ein „vernünftiger, nicht bedürftiger
+Rechtsuchender” bei einem Streitwert von rund 374 EUR nicht klagen werde (Stellungnahme
+vom 30.04.2026).
+
+Dies verkennt:
+
+1. dass es sich nicht um einen bloßen Kleinstbetrag-Streit handelt, sondern um eine
+Gesamtforderung von 957,92 EUR;
+
+2. dass Datenschutz- und Berichtigungsrechte nicht von der wirtschaftlichen
+Größe der Telekom-Forderung abhängig sind;
+
+3. dass der Beschwerdeführer wiederholt sachliche Beanstandungen erhoben und
+Beweismittel benannt hat;
+
+4. dass die Beklagte die streitigen Positionen kennt, aber nicht aufklärt.
+
+Eine Rechtsverfolgung ist nicht mutwillig, wenn sie auf nachvollziehbaren
+Gesetzesansprüchen und belegten Abrechnungsdifferenzen beruht.
+
+
+--- Seite 9 (ocr) ---
+V. Unbeachtete Beweisanträge und sekundäre Darlegungslast
+1. Beweisantrag vom 03.05.2026
+Mit Schriftsatz vom 03.05.2026 hat der Beschwerdeführer beantragt, die Beklagte zur
+Vorlage u.a. folgender Unterlagen zu verpflichten:
+* CRM-Dokumentationen zum Kündigungsgespräch;
+* interne Buchungs- und Verrechnungsvorgänge zu den Zahlungen von 56,45 EUR;
+* Nachweise über die tatsächliche Leistungserbringung;
+* vollständige Herleitung der Position 318,08 EUR.
+
+Das Amtsgericht geht auf diese Anträge im Beschluss vom 04.06.2026 mit keinem Wort
+ein.
+
+2. Sekundäre Darlegungslast und Beweisnähe
+
+Die relevanten Informationen liegen ausschließlich in der Sphäre der Beklagten:
+
+* CRM-/Callcenter-Eintrage;
+
+* interne Buchungssätze;
+
+*  Zahlungszuordnungen;
+
+*  Leistungsnachweise / Nutzungsdaten;
+
+* vertragliche Grundlage und vollständige Kalkulation der Position von 318,08 EUR.
+
+Der Beschwerdeführer kann nicht beweisen, was er faktisch nicht einsehen darf. Es ist
+nicht Aufgabe des Beschwerdeführers, interne Telekom-Systeme zu rekonstruieren.
+
+Das Amtsgericht hätte sich daher fragen müssen: Wie soll der Beschwerdeführer mehr
+darlegen oder beweisen, solange die Beklagte die entscheidenden CRM-, Buchungs- und
+Verrechnungsdaten nicht offenlegt und das Gericht die beantragte Beweiserhebung im PKH-
+Verfahren nicht einmal erwähnt?
+
+Mangels Offenlegung ist eine abschließende Sachaufklärung im PKH-Verfahren weder
+möglich noch erforderlich. Es genügt, dass eine ernsthafte Beweisaufnahme in der
+Hauptsache in Betracht kommt (vgl. BVerfG, Beschluss v. 02.02.1993 - 1 BvR 1697/91, NJW-RR
+
+Das Amtsgericht bejaht dagegen offenbar die fehlende Erfolgsaussicht im Sinne des $ 114
+ZPO, weil der Beschwerdeführer die streitigen Tatsachen nicht vollständig bewiesen habe —
+obwohl gerade die Offenlegung bei der Beklagten beantragt wurde. Diese Logik verkehrt die
+Darlegungs- und Beweislast in unzulässiger Weise und begründet einen Zirkelschluss: Aus
+der verweigerten Offenlegung folgert das Gericht die fehlende Erfolgsaussicht der Klage.
+
+
+--- Seite 10 (ocr) ---
+VI. Kein fehlendes Rechtsschutzbedürfnis für die Feststellungsanträge
+1. Entgegenhaltung des Amtsgerichts
+Das Amtsgericht verneint das Rechtsschutzbedürfnis für Feststellungsanträge mit dem
+Hinweis, der Beschwerdeführer hätte im Mahnverfahren vorgehen müssen.
+2. Keine materielle Sachentscheidung in Kreuzberg
+Das Verfahren […] (AG Kreuzberg) betraf ausschließlich die Frist des Einspruchs
+gegen den Vollstreckungsbescheid. Es enthält keine Sachentscheidung über:
+* die Höhe der Hauptforderung,
+* die Verrechnung geleisteter Zahlungen,
+* die Position von 318,08 EUR ohne nachvollziehbare vertragliche Grundlage,
+*  Inkasso- oder Anwaltskosten,
+* _ datenschutzrechtliche Berichtigungsansprüche.
+Eine materielle Rechtskraft über diese Punkte besteht daher nicht ($ 322 ZPO).
+3. Eigenständiger Streitgegenstand in
+Das Verfahren verfolgt erstmals einen eigenständigen, nach Titulierung
+fortentwickelten Sachverhalt:
+*  fortgesetzte Verarbeitung personenbezogener Forderungsdaten;
+* fehlende Berichtigung trotz Beanstandung;
+*  Aufrechterhaltung streitiger Positionen in der vom 18.08.2025.
+Die vertritt demgegenüber, ein Feststellungsinteresse fehle, weil die Klage
+nur einzelne „Elemente“ und nicht ein vollständiges Rechtsverhältnis betreffe (Stellungnahme
+vom 20.05.2026). Dies verkennt, dass der Beschwerdeführer mehrere selbständige
+Ansprüche geltend macht (§ 826 BGB, Art. 5 Abs. 1 lit. d, Art. 16 DSGVO, Unterlassung,
+Schadensersatz) und nicht lediglich eine abstrakte Teilstreitigkeit.
+4. Feststellungsinteresse
+Ein Feststellungsinteresse kann bereits dann bejaht werden, wenn die Beklagte die
+streitige Rechtslage bestreitet und der Kläger sich gegen die fortgesetzte Inanspruchnahme
+und Datenverarbeitung wenden muss. Dies ist hier der Fall.
+
+--- Seite 11 (ocr) ---
+VII. Zur Rechtsprechung des BGH — § 826 BGB und Vollstreckungstitel
+1. Keine voreilige Verneinung im PKH-Verfahren
+Der Beschwerdeführer beruft sich auf BGH, Urteil vom 29.06.2005 - VIII ZR 299/04.
+Das Amtsgericht setzt sich mit dieser Rechtsprechung nicht auseinander.
+Zutreffend ist, dass der BGH die Durchbrechung der Rechtskraft nur in eng begrenzten
+Ausnahmefällen zulässt und besondere Umstände verlangt:
+„Die Rechtskraft muß nur dann zurücktreten, wenn es mit dem
+Gerechtigkeitsgedanken schlechthin unvereinbar wäre, daß der Titelgläubiger seine
+formelle Rechtsstellung unter Mißachtung der materiellen Rechtslage zu Lasten des
+Schuldners ausnutzt.”
+— BGH, Urteil v. 29.06.2005 - VIII ZR 299/04; st. Rspr. vgl. BGH, Urteil v.
+09.02.1999 - VIZR 9/98
+Gerade deshalb darf das PKH-Gericht diese Frage nicht vorab verneinen. Der
+Beschwerdeführer behauptet nicht, dass BGH VIII ZR 299/04 ohne weiteres zwingend
+anwendbar sei. Er rügt vielmehr, dass das Amtsgericht die zitierte Rechtsprechung überhaupt
+nicht gewürdigt und nicht begründet hat, weshalb die dort genannten engen Voraussetzungen
+vorliegend von vornherein ausscheiden sollen.
+2. Vorliegend vorgetragene Anhaltspunkte
+Der Beschwerdeführer stützt den Feststellungsantrag zu $ 826 BGB nicht auf bloße
+Unrichtigkeit des Titels, sondern auf die Kombination aus:
+1. fortgesetzter Durchsetzung der Forderungsaufstellung vom 18.08.2025;
+2. bekannten Zahlungseingängen aus dem eigenen System der Beklagten, die nicht
+verrechnet wurden;
+3. fehlender sachlicher Aufklärung der Position 318,08 EUR trotz mehrfacher
+Beanstandung;
+4. weiterer Geltendmachung einer Gesamtforderung von 957,92 EUR trotz
+erkennbarer Abweichungen in den vorgelegten Unterlagen.
+Dies sind substantiierte Anhaltspunkte, deren endgültige Bewertung der Hauptsache
+vorbehalten bleibt.
+
+--- Seite 12 (ocr) ---
+3. Missbrauch des Mahnverfahrens — hilfsweise
+Hilfsweise macht der Beschwerdeführer geltend, dass die Beklagte im Mahnverfahren
+einen Titel erwirkt hat, obwohl zumindest streitig ist, ob die Forderung bei schlüssiger Prüfung
+in voller Höhe durchgesetzt werden konnte, insbesondere wegen:
+* fehlender Verrechnung nachweislich geleisteter Zahlungen;
+* einer Position von 318,08 EUR, die nicht in der Auftragsbestätigung vom
+14.03.2023 vereinbart ist und in ohne Herleitung fortgeführt wird;
+* nicht nachvollziehbar begründeter Sperr- und Folgekosten.
+Nach BGH, Urteil v. 24.09.1987 - Ill ZR 187/86 (BGHZ 101, 380, 383 ff.) kann allein die
+Wahl des Mahnverfahrens unter bestimmten Umständen ein besonderer Umstand sein, der die
+Vollstreckung aus einem materiell unrichtigen Titel sittenwidrig erscheinen lässt, wenn der
+Gläubiger erkennen konnte, dass seine Forderung im Klageverfahren mangels Schlüssigkeit
+scheitern müsste.
+Ob diese Voraussetzungen vorliegen, ist nicht bereits im PKH-Verfahren zu verneinen.
+
+--- Seite 13 (ocr) ---
+VIII. DSGVO — kein Rückgriff auf den Titel, sondern Prüfung fortgesetzter Forderungsdaten
+1. Entgegenhaltung der Beklagten
+
+Die Beklagte vertritt in ihrer Stellungnahme vom 30.04.2026 die Auffassung, titulierte
+Forderungsdaten könnten wegen der Titulierung nicht mehr „unrichtig” im Sinne der DSGVO
+sein. Die bestreitet pauschal jeden Verstoß gegen Art. 5 Abs. 1lit. d und Art. 16
+DSGVO (Stellungnahme vom 20.05.2026).
+
+Dieser Einwand geht an der Klage vorbei. Die Beklagte stellt die DSGVO-Anträge so dar,
+als wolle der Beschwerdeführer über die DSGVO den Vollstreckungstitel oder die materielle
+Berechtigung der titulierten Forderung erneut angreifen. Genau dies tut die Klage nicht.
+
+2. Abgrenzung: nicht Titelprüfung, sondern laufende Datenverarbeitung
+
+Der Beschwerdeführer macht geltend:
+
+Nicht Gegenstand der Klage Gegenstand der Klage
+
+Anfechtung des fortgesetzte Verarbeitung
+
+Vollstreckungsbescheids personenbezogener Forderungsdaten
+
+erneute materielle Prüfung der Berichtigung streitiger Zahlungs- und
+
+Titelforderung Forderungsdaten
+
+Aufhebung der Rechtskraft des Titels Unterlassung der weiteren Nutzung
+beanstandeter Daten zur Durchsetzung
+
+Die DSGVO-Anträge betreffen damit nicht die Frage, ob der Titel formell besteht, sondern
+ob die Beklagte aktuell personenbezogene Daten verarbeitet, speichert, mitteilt und zur
+Forderungsdurchsetzung verwendet, deren sachliche Richtigkeit streitig ist — insbesondere in
+der Forderungsaufstellung vom 18.08.2025 und in der weiteren Kommunikation der
+Kanzlei.
+
+Art. 5 Abs. 1 lit. d DSGVO und Art. 16 DSGVO knüpfen an die Richtigkeit der verarbeiteten
+Daten an, nicht an die formelle Unanfechtbarkeit eines früheren Vollstreckungstitels.
+
+3. Zivilgerichtliche Selbstständigkeit
+
+Zivilgerichte prüfen DSGVO-Ansprüche selbstständig. Eine vorherige Entscheidung der
+Aufsichtsbehörde ist nicht erforderlich:
+
+„Ein Gericht hat das Vorliegen der Voraussetzungen für den geltend gemachten
+
+Schadensersatzanspruch nach Artikel 82 Absatz 1 DSGVO eigenständig zu prüfen.”
+— LG Ingolstadt, Urteil v. 07.06.2024 - 310 617/23, Rn. 32; vgl. KG Berlin,
+Beschluss v. 17.02.2023 - 10 U 146/22, Rn. 10
+
+--- Seite 14 (ocr) ---
+4. Konkret streitige Datenkategorien
+Streitig und nicht abschließend geklärt sind insbesondere:
+*  Zahlungsdaten (nicht verrechnete 56,45 EUR),
+* Forderungszusammensetzung (Position 318,08 EUR ohne vertragliche Grundlage
+und ohne Herleitung in
+* Gesamtforderungsstand (957,92 EUR laut vom 18.08.2025).
+
+Die bloße Existenz eines älteren Vollstreckungstitels beantwortet diese Fragen nicht. Sie
+entbindet die Beklagte auch nicht von datenschutzrechtlichen Anforderungen an die
+fortgesetzte Verarbeitung dieser Daten.
+
+
+--- Seite 15 (ocr) ---
+IX. Materielle Bedeutung der streitigen Beträge
+1. 56,45 EUR
+
+Die Zahlungen sind nachweislich geleistet und in der vom 18.08.2025
+nicht berücksichtigt. Dies ist kein Bagatellbetrag, sondern ein objektiv prüfbarer
+Abrechnungsfehler.
+
+2. 318,08 EUR
+
+Zur Klarstellung der Titel: Die Position von 318,08 EUR erscheint im titulierten VB vom
+13.08.2024 Hauptforderung 598,17 EUR), nicht im älteren VB vom
+01.07.2024 Hauptforderung 520,69 EUR als pauschaler Einzelposten).
+
+Die Position von 318,08 EUR ist weder in der vertraglichen Auftragsbestatigung vom
+14.03.2023 vereinbart noch in VB (13.08.2024) oder (18.08.2025)
+mit sachlicher Bezeichnung, Berechnung oder Verweis auf eine konkrete Vertragsbestimmung
+ausgewiesen. In der Auftragsbestatigung sind lediglich 49,95 EUR monatlicher Grundpreis, 24
+Monate Laufzeit und 39,95 EUR Bereitstellungspreis vereinbart — keine Kündigungsstrafe,
+Vertragsstrafe oder Einmalposition von 318,08 EUR.
+
+Besonders bezeichnend ist, dass die Position selbst im Vollstreckungsbescheid
+lediglich als bloßer Geldbetrag erscheint — ohne sachliche Bezeichnung und ohne
+nachprüfbare Herleitung. Aus dem Titel ist für den Schuldner nicht erkennbar, welche konkrete
+Leistung, welcher Vertragstatbestand oder welche Kalkulation dieser Betrag begründen soll.
+
+Die Beklagte hat nicht dargelegt, dass dieser Betrag aus den mit dem Beschwerdeführer
+geschlossenen Vertragsbedingungen folgt. In der vom 18.08.2025 wird er
+ohne nachvollziehbare Herleitung fortgeführt. Dies entspricht rund 53 % der titulierten
+Hauptforderung (598,17 EUR). Die vertragliche und rechtliche Grundlage ist offen und streitig;
+hilfsweise ist zumindest AGB-rechtlich angreifbar (§ 307 BGB, § 309 Nr. 5 BGB).
+
+3. Gesamtforderung 957,92 EUR
+
+Nach den vorliegenden Unterlagen beläuft sich die geltend gemachte Gesamtforderung
+einschließlich Kosten und Zinsen auf 957,92 EUR, während nachvollziehbar herleitbare Beträge
+deutlich darunter liegen. Allein aus dieser Diskrepanz folgt, dass die beabsichtigte
+Rechtsverfolgung nicht bereits im PKH-Verfahren als aussichtslos abzulehnen ist.
+
+
+--- Seite 16 (ocr) ---
+X. Schadensersatz — Bezifferung und Schadensdarlegung
+
+Das Amtsgericht beanstandet einen pauschalen unbezifferten Schadensersatz.
+
+Zur Klarstellung wird mitgeteilt, dass der Beschwerdeführer immateriellen
+Schadensersatz nach Art. 82 DSGVO in Höhe von 1.000,00 EUR geltend macht.
+
+1. Art und Umfang des geltend gemachten Schadens
+
+Der immaterielle Schaden ergibt sich nach dem Vortrag des Beschwerdeführers aus der
+fortgesetzten Verarbeitung und Nutzung beanstandeter Forderungsdaten nach Titulierung,
+insbesondere durch:
+
+1. wiederholte Befassung mit streitigen Forderungsschreiben, Mahnungen,
+Korrespondenz und Gerichtsverfahren über einen Zeitraum von mehr als zwei Jahren;
+
+2. fortgesetzte Verarbeitung personenbezogener Zahlungs-, Vertrags- und
+Forderungsdaten, deren Richtigkeit der Beschwerdeführer wiederholt beanstandet hat;
+
+3. erheblichen zeitlichen und organisatorischen Aufwand zur Sichtung von
+Rechnungen, Zahlungsnachweisen, Forderungsaufstellungen und Behörden-/
+Gerichtsschreiben bei gleichzeitiger wirtschaftlicher Belastung (Bürgergeld-Bezug);
+
+4. anhaltender Unsicherheit über den tatsächlichen Forderungsbestand, obwohl
+konkrete Beträge (56,45 EUR / 318,08 EUR) wiederholt benannt und mit Unterlagen
+belegt wurden;
+
+5. psychischer Belastung durch die fortgesetzte Androhung und Fortführung einer
+Gesamtforderung von 957,92 EUR trotz offensichtlicher Rechen- und
+
+6. Datenabweichungen.
+
+2. Warum 1.000,00 EUR
+
+Der Betrag von 1.000,00 EUR ist nicht als willkürliche Rundung gewählt, sondern als
+vorläufige, nachvollziehbare Schätzung des immateriellen Schadens, der durch die
+mehrjährige, wiederholte und bis heute nicht bereinigte Datenverarbeitung und
+Forderungsfortführung entstanden ist.
+
+Eine exakte mathematische Bezifferung immateriellen Schadens ist regelmäßig erst im
+Laufe des Verfahrens möglich. Für die Leistungsklage genügt indes eine hinreichend
+bestimmte Schätzung (vgl. BGH, Urteil v. 28.01.2025 - VI ZR 183/22). Der Betrag von 1.000,00
+EUR liegt zudem unterhalb des Streitwerts, den das Amtsgericht selbst in der
+Rechtsbehelfsbelehrung als relevante Schwelle für die Beschwerde genannt hat.
+
+3. Abgrenzung zur Kritik des Amtsgerichts
+
+Das Amtsgericht hat den Schadensersatzantrieb pauschal als unbeziffert
+zurückgewiesen, ohne auf diese Schadenskomponenten einzugehen. Damit hat es auch
+insoweit den PKH-Maßstab überspannt und die Hauptsache vorweggenommen.
+
+
+--- Seite 17 (ocr) ---
+XI. Hilfsweises Vorbringen
+
+Hilfsweise wird vorgetragen:
+1.8 796 Abs. 2 ZPO
+
+Soweit das Gericht die Anträge als Vollstreckungsabwehr wertet, stützen diese sich auf
+nach Zustellung des Vollstreckungsbescheids fortbestehende bzw. neu geschaffene Umstände,
+insbesondere die Forderungsaufstellung vom 18.08.2025 und die fortgesetzte
+Datenverarbeitung. Diese fallen nicht unter § 796 Abs. 2 ZPO.
+
+2. Leistungsantrage
+
+Hilfsweise beantragt der Beschwerdeführer die Verurteilung der Beklagten zur
+Berichtigung und Verrechnung der streitigen Beträge von 56,45 EUR und 318,08 EUR sowie
+zur Erstattung etwaig zu viel gezahlter Beträge.
+
+3. AGB-rechtliche Einwendungen
+
+Soweit die Beklagte die Position von 318,08 EUR hilfsweise auf AGB stützen sollte, hat sie
+weder die konkrete AGB-Bestimmung noch eine nachprüfbare Berechnungsformel vorgelegt.
+Zumindest bestehen streitige und nicht leicht abweisende Einwände aus $ 307 BGB und $ 309
+Nr. 5 BGB.
+
+4. Doppelbelastung mit Inkasso- und Anwaltskosten
+
+Soweit die Beklagte parallel Inkasso- und Anwaltskosten geltend macht, sind nach BGH,
+Urteil v. 13.02.2020 - VIII ZR 285/18 zumindest klärungsbedürftige Doppelbelastungen
+vorgetragen.
+
+XII. Verfassungsrechtlicher Zugang zum Recht
+Die bisherige Verfahrensgeschichte zeigt ein erhebliches Risiko faktischen
+Rechtsschutzentzugs:
+1. Mahnverfahren ohne materielle Prüfung;
+2. Einspruch/Wiedereinsetzung in Kreuzberg ohne Sachprüfung;
+3. PKH-Ablehnung in […];
+4. erneute PKH-Ablehnung in
+5. materielle Prüfung der Forderung bislang nicht erfolgt.
+
+Die PKH-Versagung allein mit der Begründung eines rechtskräftigen Titels, ohne jemals
+die streitigen Abrechnungs- und Datenschutzfragen sachlich zu prüfen, verletzt den Anspruch
+auf effektiven Rechtsschutz (Art. 19 Abs. 4 GG) und die Rechtsschutzgleichheit (Art. 3 Abs. 1
+GG), soweit sie dem unbemittelten Rechtssuchenden den Zugang zur Hauptsache faktisch
+versperrt (vgl. BVerfGE 81, 347, 358).
+
+
+--- Seite 18 (ocr) ---
+XIII. Kernpunkt: Ungeklärte Richtigkeit statt fehlender Relevanz
+
+Das Amtsgericht hat nicht festgestellt, dass die Beträge von 56,45 EUR und 318,08 EUR
+sachlich richtig seien. Es hat nicht festgestellt, dass die von der Beklagten verarbeiteten
+Forderungsdaten mit Art. 5 Abs. 1 lit. d DSGVO im Einklang stünden. Es hat nicht festgestellt,
+dass § 826 BGB von vornherein unanwendbar sei.
+
+Es hat lediglich ausgeführt, der Beschwerdeführer habe die Relevanz dieser Positionen
+und die Tragfähigkeit der DSGVO- und §-826-Antrage nicht hinreichend erläutert.
+
+Damit verwechselt der Beschluss:
+
+* die Frage, ob die Positionen richtig sind, mit
+* der Frage, ob der Kläger sie ausreichend vorgetragen hat.
+
+Gerade im PKH-Verfahren ist diese Verwechslung unzulässig. Denn sie führt dazu, dass
+offene Sachfragen nicht als offen behandelt, sondern zugunsten der Beklagten
+vorweggenommen werden, obwohl die entscheidenden Daten in der Sphäre der Beklagten
+liegen.
+
+XIV. Ergebnis
+
+Die beabsichtigte Rechtsverfolgung bietet hinreichende Aussicht auf Erfolg im Sinne des
+§ 114 ZPO und ist nicht mutwillig.
+
+Der Beschluss vom 04.06.2026 beruht auf:
+
+1. Verkennung des Streitgegenstandes;
+
+2. Begründungsmängeln hinsichtlich der Beträge 56,45 EUR und 318,08 EUR;
+
+3. Anwendung eines zu strengen PKH-Maßstabs;
+
+4. unzulässiger Vorwegnahme der Hauptsache;
+
+5. Nichtberücksichtigung der Beweisanträge vom 03.05.2026;
+
+6. fehlender Auseinandersetzung mit der Rechtsprechung des BGH (VIII ZR
+299/04) und der DSGVO-Rechtsprechung der ordentlichen Gerichte.
+
+Der Beschluss ist daher aufzuheben und dem Beschwerdeführer Prozesskostenhilfe zu
+
+bewilligen.
+Mit freundlichen Grüßen,
+Oleksandr Tsyba

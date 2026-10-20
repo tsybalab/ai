@@ -1,0 +1,85 @@
+# Text extract companion for: 2026-10-17 - Anhörungsrüge.pdf
+# Path: 2026-10-17 - Anhörungsrüge.pdf
+# Pages: 3
+
+--- Seite 1 (ocr) ---
+Oleksandr Tsyba|
+Landgericht Berlin Il
+Littenstraße 12-17
+10179 Berlin
+Berlin, den 17. Oktober 2026
+Anhörungsrüge gemäß $ 321a ZPO
+gegen den Beschluss des Landgerichts Berlin Il vom 23.09.2026
+Sehr geehrte Damen und Herren,
+hiermit erhebe ich Anhörungsrüge gemäß § 321a ZPO wegen einer
+entscheidungserheblichen Verletzung meines Anspruchs auf rechtliches Gehör (Art. 103 Abs. 1
+I. Anträge
+Ich beantrage,
+1. der Anhörungsrüge abzuhelfen und das Beschwerdeverfahren gemäß § 321a Abs. 5
+ZPO fortzuführen;
+2. unter Berücksichtigung des vollständigen bisherigen Prozessvortrags erneut über
+meine sofortige Beschwerde gegen die Versagung von Prozesskostenhilfe zu entscheiden.
+Il. Bereits konkret bestimmter Streitgegenstand
+Bereits die Klageschrift vom 29.03.2026 stellte ausdrücklich klar, dass nicht die formelle
+Wirksamkeit der Vollstreckungstitel angegriffen wird.
+Gegenstand waren vielmehr eigenständige Handlungen der Beklagten nach Titulierung,
+insbesondere die fortgesetzte Verwendung streitiger Abrechnungs- und Forderungsdaten.
+Als konkreter Vorgang wurde die Forderungsaufstellung der vom 18.08.2025
+bezeichnet. Beanstandet wurden insbesondere:
+« die nach meinem Vortrag fehlende Berücksichtigung von Zahlungen über insgesamt
+56,45 EUR;
+« die nicht nachvollziehbar erläuterte Forderungsposition von 318,08 EUR;
+
+--- Seite 2 (ocr) ---
+« die weitere Verwendung der betreffenden Forderungsdaten. Die Klageschrift enthielt hierzu fünf Anträge auf Feststellung, Berichtigung, Unterlassung
+und Schadensersatz. Damit waren ein bestimmbarer Vorgang nach Titulierung, konkrete Streitpositionen und
+die begehrten Rechtsfolgen bezeichnet. Ob einzelne Anträge weiterer Konkretisierung
+bedurften, ist von der Frage zu unterscheiden, ob überhaupt ein rechtlich relevanter
+Sachverhalt vorgetragen wurde. lll. Ergänzender Vortrag und Beweisantrage Noch vor der ersten PKH-Entscheidung vom 04.06.2026 wurde der Sachverhalt ergänzt: « 20.04.2026: Vortrag zur behaupteten Abrechnung nicht mehr erbrachter
+Telekommunikationsleistungen. « 03.05.2026: Antrag auf Vorlage technischer Leistungsnachweise, interner
+Abrechnungsunterlagen, Zahlungszuordnungen und CRM-Dokumentation zur
+Vertragsbeendigung. « 09.05.2026: Weitere Konkretisierung der streitigen Forderungsdaten und ihrer
+Verwendung nach Titulierung. Die Schriftsätze vom 22.06., 23.06. und 07.07.2026 dienten anschließend der Begründung und Ergänzung der sofortigen Beschwerde. Diese Unterlagen bilden einen zusammenhängenden Prozessvortrag und dürfen bei
+seiner Bewertung nicht isoliert betrachtet werden. IV. Nicht hinreichend erkennbare Berücksichtigung Das Landgericht führt aus, der Vortrag zum Verhalten der Beklagten nach Titulierung sei
+zu vage, um einen ausreichend subsumierbaren Sachverhalt erkennen zu lassen. Diese Bewertung lässt nicht hinreichend erkennen, weshalb der bereits bezeichnete
+Vorgang vom 18.08.2025, die konkret beanstandeten Forderungsdaten und die hierzu gestellten
+Beweisanträge keine rechtliche Relevanz haben sollen. Insbesondere wurden unterschiedliche Anspruchsgrundlagen geltend gemacht. Während § 826 BGB eine vorsätzliche sittenwidrige Schädigung voraussetzt, erfordert ein
+Berichtigungsanspruch nach Art. 16 DSGVO weder Sittenwidrigkeit noch einen
+Schadensnachweis. Die Erfolgsaussichten dieser Ansprüche waren deshalb eigenständig zu beurteilen. Der Nichtabhilfebeschluss des Amtsgerichts vom 15.09.2026 bezeichnet den gesamten
+Vortrag als „mittels künstlicher Intelligenz erstellten pseudojuristischen Vortrag”. Die Entstehungsweise eines Schriftsatzes ersetzt jedoch keine Prüfung seines
+tatsächlichen Inhalts. Das Landgericht hat auf die Begründung des Amtsgerichts ausdrücklich
+Bezug genommen.
+
+--- Seite 3 (ocr) ---
+Gerügt wird nicht diese Wortwahl als solche, sondern die möglicherweise damit
+verbundene Nichtberücksichtigung bereits konkret vorgetragener Tatsachen und
+eigenständiger Anspruchsgrundlagen. Die formelle Wirksamkeit eines Vollstreckungstitels bedeutet nicht, dass sämtliche ihm
+zugrunde liegenden oder nachträglich verwendeten Forderungsdaten unabhängig von ihrer
+tatsächlichen Richtigkeit als zutreffend behandelt werden dürfen. Die Rechtskraft eines Titels
+und die datenschutzrechtliche Richtigkeit personenbezogener Daten sind rechtlich zu
+unterscheiden. Gerade diese Unterscheidung bildet den Kern des ursprünglichen
+Klagevortrags. Der Beschwerdeführer beanstandet nicht die bloße Existenz der
+Vollstreckungstitel, sondern die fortgesetzte Verarbeitung konkret bestrittener Forderungsdaten
+trotz vorgetragener Unstimmigkeiten bei der Berechnung und Zahlungszuordnung. Ob daraus
+Ansprüche nach Art. 5 Abs. 1lit. d und Art. 16 DSGVO folgen, bedarf einer eigenständigen
+Prüfung und kann nicht allein mit dem Hinweis auf die bestehenden Vollstreckungstitel verneint
+werden. Der Einsatz künstlicher Intelligenz bei der Erstellung gerichtlicher Schriftsätze stellt eine
+Form technischer Unterstützung bei der Wahrnehmung eigener Rechte dar. Insbesondere für
+nicht anwaltlich vertretene und wirtschaftlich bedürftige Verfahrensbeteiligte kann diese
+Unterstützung den Zugang zum Recht erleichtern. Weder Art. 103 Abs. 1 GG noch die
+Vorschriften der ZPO rechtfertigen es, einen Prozessvortrag allein aufgrund seiner vermuteten
+Kl-gestützten Entstehung als rechtlich unbeachtlich zu behandeln. Maßgeblich sind vielmehr
+die vorgetragenen Tatsachen, die gestellten Anträge und deren rechtliche Erheblichkeit. Die
+pauschale Abwertung als „mittels künstlicher Intelligenz erstellter pseudojuristischer
+Vortrag” wirft daher die verfassungsrechtlich erhebliche Frage auf, ob an die Berücksichtigung
+meines Vortrags ein sachfremdes Kriterium angelegt wurde. Dies betrifft neben Art. 103 Abs. 1
+GG auch den Grundsatz der Rechtsschutzgleichheit aus Art. 3 Abs. 1 in Verbindung mit Art. 20
+Abs. 3 GG. V. Entscheidungserheblichkeit Die gerügte Gehörsverletzung konnte sich auf die Entscheidung über Prozesskostenhilfe
+gemäß § 114 ZPO auswirken. Selbst wenn der Vortrag für einen Anspruch nach $ 826 BGB nicht ausgereicht haben
+sollte, war damit über die Erfolgsaussichten eines eigenständigen Berichtigungsanspruchs nach
+Art. 16 DSGVO noch nicht entschieden. Ebenso war die behauptete Verwendung bestimmter Forderungsdaten nach Titulierung
+von einem unmittelbaren Angriff auf die Vollstreckungstitel zu unterscheiden. Bei Berücksichtigung dieser Umstände erscheint eine andere Beurteilung zumindest
+einzelner Klageanträge nicht ausgeschlossen. Ich beantrage daher, das Verfahren gemäß § 321a Abs. 5 ZPO fortzuführen und unter
+Berücksichtigung des vollständigen Prozessvortrags erneut über die sofortige Beschwerde zu
+entscheiden. Mit freundlichen Grüßen,
+Oleksandr Tsyba

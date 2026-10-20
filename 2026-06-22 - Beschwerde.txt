@@ -1,0 +1,84 @@
+# Text extract companion for: 2026-06-22 - Beschwerde.pdf
+# Path: 2026-06-22 - Beschwerde.pdf
+# Pages: 4
+
+--- Seite 1 (ocr) ---
+Oleksandr Tsyba|
+Amtsgericht Lichtenberg
+Roedeliusplatz 1
+10365 Berlin
+Berlin, den 22. Juni 2026
+Sofortige Beschwerde gegen den Beschluss des Amtsgerichts Lichtenberg
+vom 04.06.2026 Hiermit lege ich gegen den Beschluss des Amtsgerichts Lichtenberg vom 04.06.2026
+sofortige Beschwerde ein. I. Verkennung des Streitgegenstandes Das Amtsgericht hat den Streitgegenstand unzutreffend erfasst. Die Klage richtet sich ausdrücklich nicht gegen die formelle Wirksamkeit, die
+Vollstreckbarkeit oder den Bestand des Vollstreckungstitels. Vielmehr betrifft sie ausschließlich das Verhalten der Beklagten nach Titulierung,
+insbesondere: « die fortgesetzte Verarbeitung personenbezogener Forderungsdaten, « die weitere Verwendung streitiger Abrechnungsdaten, « die fortgesetzte Forderungsfortführung, « die Nichtberücksichtigung bekannter Zahlungseingänge, « sowie die fehlende sachliche Aufklärung einzelner Forderungsbestandteile. Dennoch begründet das Amtsgericht seine Entscheidung im Wesentlichen mit dem
+Hinweis, der Beschwerdeführer hätte im Mahnverfahren vorgehen können. Dies setzt voraus, dass Gegenstand der Klage die Titulierung selbst wäre. Gerade dies ist jedoch ausdrücklich nicht Gegenstand der Klage. Der Kläger erkennt die formelle Rechtskraft des Vollstreckungsbescheids ausdrücklich an
+und greift diese nicht an. Gegenstand der Klage ist ausschließlich das nachwirkende Verhalten
+der Beklagten.
+
+--- Seite 2 (ocr) ---
+Il. Fehlende Auseinandersetzung mit der Rechtsprechung des Bundesgerichtshofs
+Der Beschwerdeführer hat ausdrücklich auf die Rechtsprechung des Bundesgerichtshofs
+verwiesen, wonach $ 826 BGB eingreifen kann, wenn ein Gläubiger seine formelle
+Rechtsposition in einer Weise ausnutzt, die mit der materiellen Sachlage schlechthin
+unvereinbar erscheint (BGH, Urteil vom 29.06.2005 - VIII ZR 299/04), wonach § 826 BGB
+eingreifen kann, wenn ein Gläubiger seine formelle Rechtsposition in einer mit der materiellen
+Sachlage schlechthin unvereinbaren Weise ausnutzt.
+Das Amtsgericht setzt sich mit diesem Argument nicht auseinander.
+Insbesondere wird nicht erläutert:
+« weshalb die zitierte Rechtsprechung nicht anwendbar sein soll,
+« weshalb die vorgetragenen Umstände von vornherein ungeeignet sein sollen, einen
+solchen Ausnahmefall zu begründen,
+« oder weshalb $ 826 BGB bereits im PKH-Verfahren offensichtlich ausgeschlossen sein
+soll.
+Die Entscheidung enthält insoweit keine nachvollziehbare rechtliche Würdigung.
+Ill. Fortgesetzte Datenverarbeitung nach Titulierung
+Das Amtsgericht behandelt die fortgesetzte Verarbeitung von Forderungsdaten faktisch
+so, als sei sie aufgrund der Titulierung jeder weiteren sachlichen Kontrolle entzogen. Eine
+entsprechende Rechtsgrundlage nennt der Beschluss jedoch nicht. Auch nach Titulierung
+verarbeitet die Beklagte weiterhin personenbezogene Daten, insbesondere:
+« Zahlungsdaten,
+« Forderungsstände,
+« interne Verrechnungen,
+« sowie Forderungsinformationen gegenüber dem Beschwerdeführer.
+Die Frage, ob diese Daten sachlich richtig sind, wird durch die bloße Existenz eines
+Vollstreckungstitels nicht automatisch beantwortet.
+IV. Fehlende Berücksichtigung des Vorbringens zur DSGVO
+Der Beschluss beschränkt sich auf die Feststellung, es sei nicht ersichtlich, welche Daten
+unrichtig sein sollen.
+Der Beschwerdeführer hat jedoch konkret vorgetragen:
+« die Nichtberücksichtigung einer Zahlung in Höhe von 56,45 EUR,
+« die fehlende nachvollziehbare Herleitung einer Forderungsposition in Höhe 318,08 EUR,
+« streitige Zahlungszuordnungen,
+« streitige Forderungsstande,
+« sowie die weitere Verwendung dieser Daten zur Forderungsdurchsetzung.
+
+--- Seite 3 (ocr) ---
+Damit wurden konkrete Datenkategorien und konkrete Streitpunkte benannt. Eine inhaltliche Auseinandersetzung mit Art. 5 Abs. 1lit. d DSGVO und Art. 16 DSGVO
+findet im Beschluss nicht statt. Der Beschwerdeführer hat konkret vorgetragen, dass die Beklagte weiterhin unrichtige
+personenbezogene Daten (insbesondere zur Zahlung von 56,45 € und der Position von 318,08
+€) verarbeitet und diese zur weiteren Forderungsdurchsetzung nutzt. Dies verstößt gegen Art. 5
+Abs. 1lit. d) und Art. 16 DSGVO. Die bloße Existenz eines Titels entbindet die Beklagte nicht von
+ihrer datenschutzrechtlichen Verantwortung. V. Nichtberücksichtigung der beantragten Beweismittel Der Beschwerdeführer hat beantragt, die Beklagte zur Vorlage insbesondere folgender
+Unterlagen zu verpflichten: « CRM-Dokumentationen, « interne Buchungs- und Verrechnungsvorgänge, « Nachweise über die tatsächliche Leistungserbringung, « sowie die vollständige Herleitung der Forderungsposition von 318,08 EUR. Sämtliche dieser Informationen befinden sich ausschließlich in der Sphäre der Beklagten. Gleichzeitig begründet das Amtsgericht die fehlende Erfolgsaussicht damit, dass die
+entsprechenden Tatsachen nicht hinreichend dargelegt seien. Dabei bleibt unberücksichtigt, dass der Beschwerdeführer gerade die Offenlegung der
+hierfür erforderlichen Informationen beantragt hat. Es handelt sich um sekundäre Darlegungslast der Beklagten, da die relevanten
+Informationen ausschließlich in deren Sphäre liegen (vgl. ständige Rechtsprechung zur
+sekundären Darlegungslast bei einseitigem Wissen). VI. Bedeutung des Schreibens der BfDI Das Schreiben der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+bestätigt, dass die zugrunde liegenden Forderungs- und Zahlungsfragen weder behördlich
+geprüft noch abschließend geklärt wurden. Das Schreiben bestätigt damit gerade das Fortbestehen eines materiellen Streits über die
+zugrunde liegenden Abrechnungs- und Zahlungsdaten. Mit diesem Umstand setzt sich der Beschluss ebenfalls nicht auseinander. Das Schreiben der BfDI bestätigt gerade, dass die materiellen Forderungs- und
+Zahlungsfragen nicht abschließend geklärt sind. Damit besteht ein fortbestehendes
+Rechtsschutzbedürfnis.
+
+--- Seite 4 (ocr) ---
+VIL. Ergebnis Die angefochtene Entscheidung beruht auf einer offensichtlichen Verkennung des
+Streitgegenstandes und einer unzureichenden Würdigung des vorgetragenen Sach- und
+Rechtsvortrags. Die beabsichtigte Rechtsverfolgung ist jedenfalls nicht offensichtlich
+aussichtslos. Die angefochtene Entscheidung beruht auf einer Verkennung des Streitgegenstandes und
+setzt sich weder mit den vorgetragenen datenschutzrechtlichen Fragen noch mit der
+angeführten Rechtsprechung des Bundesgerichtshofs hinreichend auseinander. Die beabsichtigte Rechtsverfolgung erscheint daher jedenfalls nicht offensichtlich
+aussichtslos im Sinne des § 114 ZPO. Der Beschluss vom 04.06.2026 ist daher aufzuheben und Prozesskostenhilfe zu
+bewilligen. Mit freundlichen Grüßen,
+Oleksandr Tsyba
